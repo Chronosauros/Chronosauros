@@ -25,6 +25,11 @@ On-the-go EQ manager for the CrinEar Protocol Micro: keep EQ profiles on your An
 Front grille generator for the Satyr 3 DIY headphones: pick a pattern, set the open area, download a print-ready STL or SVG.<br><br>
 <a href="https://chronosauros.github.io/satyr3-grille-studio/">Open in the browser</a> · one HTML file, open source
 </td>
-<td width="50%" valign="top"></td>
+<td width="50%" valign="top">
+<a href="https://filament-room.vercel.app"><img src="images/filament-room.jpg" alt="Filament Room"></a>
+<h3><a href="https://filament-room.vercel.app">Filament Room</a> <sup>work in progress</sup></h3>
+A 3D filament shelf in a painted workshop: browse spools by row, open one for a clean product card with material, colour and print temperatures.<br><br>
+<a href="https://filament-room.vercel.app">filament-room.vercel.app</a> · three.js, TypeScript · showcase
+</td>
 </tr>
 </table>
