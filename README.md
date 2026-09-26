@@ -29,7 +29,7 @@ Front grille generator for the Satyr 3 DIY headphones: pick a pattern, set the o
 <a href="https://filament-room.vercel.app"><img src="images/filament-room.jpg" alt="Filament Room"></a>
 <h3><a href="https://filament-room.vercel.app">Filament Room</a> <sup>work in progress</sup></h3>
 A 3D filament shelf in a painted workshop: browse spools by row, open one for a clean product card with material, colour and print temperatures.<br><br>
-<a href="https://filament-room.vercel.app">filament-room.vercel.app</a> · three.js, TypeScript · showcase
+<a href="https://filament-room.vercel.app">filament-room.vercel.app</a> · <a href="https://github.com/Chronosauros/filament-room">source</a> · three.js, TypeScript · open source
 </td>
 </tr>
 </table>
