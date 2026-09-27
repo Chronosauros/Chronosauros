@@ -24,6 +24,6 @@
 
 <br>
 
-<a href="https://github.com/Chronosauros/eq-sweep"><img src="images/eq-sweep-board.jpg" width="100%" alt="EQ Sweep - Android app, coming soon. Parametric EQ tuned by ear - sweep a peak across frequencies, listen, set it."></a>
+<a href="https://github.com/Chronosauros/eq-sweep"><img src="images/eq-sweep-teaser.jpg" width="100%" alt="EQ Sweep - coming soon."></a>
 
-**EQ Sweep** - coming soon - [follow on GitHub](https://github.com/Chronosauros/eq-sweep)
+**EQ Sweep** - coming soon
