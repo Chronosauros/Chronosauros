@@ -1,8 +1,5 @@
 ### Chronosaur
 
-I build small, finished tools and sites - each one for a single job, done carefully.
-Some are open source, some are only showcased here; the live links always work.
-
 <a href="https://gamebloom.vercel.app"><img src="images/gamebloom-board.jpg" width="100%" alt="gamebloom - website, live. Every new game trailer on one page, and every showcase game indexed with sourced facts."></a>
 
 **gamebloom** - [gamebloom.vercel.app](https://gamebloom.vercel.app) · [showcase repo](https://github.com/Chronosauros/gamebloom)
