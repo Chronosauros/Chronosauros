@@ -2,7 +2,7 @@
 
 **EQ Sweep** - coming soon
 
-<a href="https://github.com/Chronosauros/eq-sweep"><img src="images/eq-sweep-teaser.jpg?v=4" width="100%" alt="EQ Sweep - coming soon."></a>
+<a href="https://github.com/Chronosauros/eq-sweep"><img src="images/eq-sweep-teaser.jpg?v=5" width="100%" alt="EQ Sweep - coming soon."></a>
 
 <br>
 
