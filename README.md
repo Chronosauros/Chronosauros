@@ -6,6 +6,12 @@
 
 <br>
 
+**Gremlin Amp** - enclosure in the works
+
+<img src="images/gremlin-amp-teaser.jpg?v=1" width="100%" alt="Gremlin Amp - enclosure in the works. Coming soonish.">
+
+<br>
+
 **Contour** - [chronosauros.github.io/contour](https://chronosauros.github.io/contour/) · [source](https://github.com/Chronosauros/contour) · [download the APK](https://github.com/Chronosauros/contour/releases/latest)
 
 <a href="https://chronosauros.github.io/contour/"><img src="images/contour-board.jpg?v=6" width="100%" alt="Contour - Android app, open source. EQ manager for the CrinEar Protocol Micro - keep profiles on your phone, send one in seconds."></a>
