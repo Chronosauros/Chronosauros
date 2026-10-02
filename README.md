@@ -6,9 +6,9 @@
 
 <br>
 
-**Gremlin Amp** - enclosure in the works
+**Gremlin Amp** - working on 3D printable Gremlin enclosures
 
-<img src="images/gremlin-amp-teaser.jpg?v=1" width="100%" alt="Gremlin Amp - enclosure in the works. Coming soonish.">
+<img src="images/gremlin-amp-teaser.jpg?v=1" width="100%" alt="Gremlin Amp - working on 3D printable Gremlin enclosures. Coming soonish.">
 
 <br>
 
