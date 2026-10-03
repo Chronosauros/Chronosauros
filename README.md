@@ -14,7 +14,7 @@
 
 **Contour** - [chronosauros.github.io/contour](https://chronosauros.github.io/contour/) · [source](https://github.com/Chronosauros/contour) · [download the APK](https://github.com/Chronosauros/contour/releases/latest)
 
-<a href="https://chronosauros.github.io/contour/"><img src="images/contour-board.jpg?v=6" width="100%" alt="Contour - Android app, open source. EQ manager for the CrinEar Protocol Micro - keep profiles on your phone, send one in seconds."></a>
+<a href="https://chronosauros.github.io/contour/"><img src="images/contour-board.jpg?v=7" width="100%" alt="Contour - Android app, open source. EQ manager for the CrinEar Protocol Micro and Max - keep profiles on your phone, send one in seconds."></a>
 
 <br>
 
