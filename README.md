@@ -1,8 +1,8 @@
 ### Chronosaur
 
-**EQ Sweep** - coming soon
+**EQ Sweep** - in beta testing on Google Play - [eqsweep.app](https://eqsweep.app/) · [join the beta](https://eqsweep.app/#beta) · [showcase repo](https://github.com/Chronosauros/eq-sweep)
 
-<a href="https://github.com/Chronosauros/eq-sweep"><img src="images/eq-sweep-teaser.jpg?v=5" width="100%" alt="EQ Sweep - coming soon."></a>
+<a href="https://eqsweep.app/"><img src="images/eq-sweep-teaser.jpg?v=6" width="100%" alt="EQ Sweep - Tuning by ear, made easier. Now in beta testing on Google Play."></a>
 
 <br>
 
