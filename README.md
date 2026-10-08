@@ -1,5 +1,7 @@
 ### Chronosaur
 
+Apps and projects by **[Soundblooms](https://soundblooms.com)** - my audio hub, with everything in one place. Questions or ideas? [Come say hi on Discord](https://discord.gg/msgvnUG7js).
+
 **EQ Sweep** - in beta testing on Google Play - [eqsweep.app](https://eqsweep.app/) · [join the beta](https://eqsweep.app/#beta) · [showcase repo](https://github.com/Chronosauros/eq-sweep)
 
 <a href="https://eqsweep.app/"><img src="images/eq-sweep-teaser.jpg?v=6" width="100%" alt="EQ Sweep - Tuning by ear, made easier. Now in beta testing on Google Play."></a>
@@ -33,3 +35,7 @@
 **Satyr 3 Grille Studio** - [open in the browser](https://chronosauros.github.io/satyr3-grille-studio/) · [source](https://github.com/Chronosauros/satyr3-grille-studio)
 
 <a href="https://chronosauros.github.io/satyr3-grille-studio/"><img src="images/satyr3-grille-studio-board.jpg?v=3" width="100%" alt="Satyr 3 Grille Studio - web tool, open source. Front grilles for DIY Satyr 3 headphones - pick a pattern, download the STL."></a>
+
+<br>
+
+[soundblooms.com](https://soundblooms.com) · [Discord](https://discord.gg/msgvnUG7js) · [Reddit](https://www.reddit.com/user/T6_8K)
