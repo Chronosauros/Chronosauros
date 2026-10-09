@@ -1,5 +1,3 @@
-### Chronosaur
-
 **Soundblooms** - my audio hub, with everything in one place - [soundblooms.com](https://soundblooms.com) · [Questions or ideas? Come say hi on Discord](https://discord.gg/msgvnUG7js)
 
 <a href="https://soundblooms.com"><img src="images/soundblooms-board.svg?v=1" width="100%" alt="Soundblooms - audio hub. Audio apps, builds and opinions, by Chronosaur."></a>
