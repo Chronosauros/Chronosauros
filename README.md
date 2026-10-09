@@ -28,9 +28,9 @@
 
 <br>
 
-**gamebloom** - [gamebloom.vercel.app](https://gamebloom.vercel.app) · [showcase repo](https://github.com/Chronosauros/gamebloom)
+**gameblooms** - [gameblooms.com](https://gameblooms.com) · [showcase repo](https://github.com/Chronosauros/gameblooms)
 
-<a href="https://gamebloom.vercel.app"><img src="images/gamebloom-board.jpg?v=4" width="100%" alt="gamebloom - website, live. Every new game trailer on one page, and every showcase game indexed with sourced facts."></a>
+<a href="https://gameblooms.com"><img src="images/gamebloom-board.jpg?v=5" width="100%" alt="gameblooms - website, live. Every new game trailer on one page, and every showcase game indexed with sourced facts."></a>
 
 <br>
 
