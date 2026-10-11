@@ -40,4 +40,4 @@
 
 <br>
 
-[soundblooms.com](https://soundblooms.com) · [Discord](https://discord.gg/msgvnUG7js) · [Reddit](https://www.reddit.com/user/T6_8K)
+[soundblooms.com](https://soundblooms.com) · [Discord](https://discord.gg/msgvnUG7js) · [Reddit](https://www.reddit.com/user/T6_8K) · [X](https://x.com/soundblooms)
