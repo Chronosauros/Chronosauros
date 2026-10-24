@@ -40,4 +40,10 @@
 
 <br>
 
+**Diffuser Generator** - [open in the browser](https://chronosauros.github.io/diffuser-generator/) · [source](https://github.com/Chronosauros/diffuser-generator)
+
+<a href="https://chronosauros.github.io/diffuser-generator/"><img src="images/diffuser-generator-board.jpg?v=1" width="100%" alt="Diffuser Generator - web tool, open source. Acoustic diffuser tiles sized to your printer bed - pick a wall, download the STL."></a>
+
+<br>
+
 [soundblooms.com](https://soundblooms.com) · [Discord](https://discord.gg/msgvnUG7js) · [Reddit](https://www.reddit.com/user/T6_8K) · [X](https://x.com/soundblooms)
