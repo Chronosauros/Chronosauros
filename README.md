@@ -4,9 +4,9 @@
 
 <br>
 
-**EQ Sweep** - in beta testing on Google Play - [eqsweep.app](https://eqsweep.app/) · [join the beta](https://eqsweep.app/#beta) · [showcase repo](https://github.com/Chronosauros/eq-sweep)
+**EQ Sweep** - now on Google Play - [get the app](https://play.google.com/store/apps/details?id=app.eqsweep) · [eqsweep.app](https://eqsweep.app/) · [showcase repo](https://github.com/Chronosauros/eq-sweep)
 
-<a href="https://eqsweep.app/"><img src="images/eq-sweep-teaser.jpg?v=6" width="100%" alt="EQ Sweep - Tuning by ear, made easier. Now in beta testing on Google Play."></a>
+<a href="https://play.google.com/store/apps/details?id=app.eqsweep"><img src="images/eq-sweep-teaser.jpg?v=7" width="100%" alt="EQ Sweep - Tuning by ear, made easier. Now on Google Play."></a>
 
 <br>
 
