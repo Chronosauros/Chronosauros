@@ -18,7 +18,7 @@
 
 **Contour** - [contoureq.app](https://contoureq.app/) · [source](https://github.com/Chronosauros/contour) · [download the APK](https://github.com/Chronosauros/contour/releases/latest)
 
-<a href="https://contoureq.app/"><img src="images/contour-board.jpg?v=9" width="100%" alt="Contour - Android app, open source. EQ manager for the CrinEar Protocol Micro and Max, FiiO KA15 and K13 R2R, SnowSky Melody and Tiny A, and TRN Black Pearl - keep profiles on your phone, send one in seconds."></a>
+<a href="https://contoureq.app/"><img src="images/contour-board.jpg?v=10" width="100%" alt="Contour - Android app, open source. EQ manager for the CrinEar Protocol Micro and Max, FiiO KA15 and K13 R2R, SnowSky Melody and Tiny A, TRN Black Pearl, Moondrop Dawn Pro 2 and Echo-A, and Kiwi Ears Allegro Mini - keep profiles on your phone, send one in seconds."></a>
 
 <br>
 
