@@ -50,4 +50,4 @@ Like the tools? [Help fund the next DAC for Contour on Ko-fi](https://ko-fi.com/
 
 <br>
 
-[soundblooms.com](https://soundblooms.com) · [Discord](https://discord.gg/msgvnUG7js) · [Reddit](https://www.reddit.com/user/T6_8K) · [X](https://x.com/soundblooms)
+[soundblooms.com](https://soundblooms.com) · [Discord](https://discord.gg/msgvnUG7js) · [Reddit](https://www.reddit.com/user/T6_8K) · [X](https://x.com/soundblooms) · [YouTube](https://www.youtube.com/@Chronosauros)
