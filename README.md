@@ -1,4 +1,4 @@
-**Soundblooms** - my audio hub, with everything in one place - [soundblooms.com](https://soundblooms.com) · [Questions or ideas? Come say hi on Discord](https://discord.gg/msgvnUG7js)
+**Soundblooms** - my audio hub, with everything in one place - [soundblooms.com](https://soundblooms.com) · [DAC catalog](https://soundblooms.com/dacs) · [Chi-fi deals](https://soundblooms.com/deals) · [3D prints](https://soundblooms.com/prints) · [Questions or ideas? Come say hi on Discord](https://discord.gg/msgvnUG7js)
 
 <a href="https://soundblooms.com"><img src="images/soundblooms-board.svg?v=1" width="100%" alt="Soundblooms - audio hub. Audio apps, builds and opinions, by Chronosaur."></a>
 
@@ -8,17 +8,13 @@
 
 <a href="https://contoureq.app/"><img src="images/contour-board.jpg?v=12" width="100%" alt="Contour - Android app, open source. EQ manager for the CrinEar Protocol Micro and Max, FiiO KA15, K13 R2R, JadeAudio JA11 and JIEZI, SnowSky Melody, Tiny A and Retro Nano, TRN Black Pearl, Moondrop Dawn Pro 2, Echo-A and DUSK-SP, Kiwi Ears Allegro Mini and AD1, JCally JM12 and Tanchjim Space 2 - keep profiles on your phone, send one in seconds."></a>
 
+Like Contour? [Help fund the next DAC on Ko-fi](https://ko-fi.com/chronosaur)
+
 <br>
 
 **EQ Sweep** - now on Google Play - [get the app](https://play.google.com/store/apps/details?id=app.eqsweep) · [eqsweep.app](https://eqsweep.app/) · [showcase repo](https://github.com/Chronosauros/eq-sweep)
 
 <a href="https://play.google.com/store/apps/details?id=app.eqsweep"><img src="images/eq-sweep-teaser.jpg?v=7" width="100%" alt="EQ Sweep - Tuning by ear, made easier. Now on Google Play."></a>
-
-<br>
-
-**Gremlin Amp** - working on 3D printable Gremlin enclosures
-
-<img src="images/gremlin-amp-teaser.jpg?v=1" width="100%" alt="Gremlin Amp - working on 3D printable Gremlin enclosures. Coming soonish.">
 
 <br>
 
@@ -34,13 +30,19 @@
 
 <br>
 
-**Diffuser Generator** - [open in the browser](https://chronosauros.github.io/diffuser-generator/) · [source](https://github.com/Chronosauros/diffuser-generator)
+**Diffuser Generator** - [open in the browser](https://soundblooms.com/tools/diffuser-generator) · [source](https://github.com/Chronosauros/diffuser-generator)
 
-<a href="https://chronosauros.github.io/diffuser-generator/"><img src="images/diffuser-generator-board.jpg?v=1" width="100%" alt="Diffuser Generator - web tool, open source. Acoustic diffuser tiles sized to your printer bed - pick a wall, download the STL."></a>
+<a href="https://soundblooms.com/tools/diffuser-generator"><img src="images/diffuser-generator-board.jpg?v=1" width="100%" alt="Diffuser Generator - web tool, open source. Acoustic diffuser tiles sized to your printer bed - pick a wall, download the STL."></a>
 
 <br>
 
-Like the tools? [Help fund the next DAC for Contour on Ko-fi](https://ko-fi.com/chronosaur)
+**bloombar** - work in progress, but it works - [source](https://github.com/Chronosauros/bloombar)
+
+<a href="https://github.com/Chronosauros/bloombar"><img src="images/bloombar-board.jpg?v=1" width="100%" alt="bloombar - macOS app, work in progress. Now playing from TIDAL in the macOS menu bar - full-size cover, controls and a heart. Not affiliated with TIDAL."></a>
+
+<br>
+
+**claude-mods** - Claude Code mods: plan usage limits, background process registry, context gauge - [source](https://github.com/Chronosauros/claude-mods)
 
 <br>
 
