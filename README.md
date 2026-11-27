@@ -6,7 +6,7 @@
 
 **Contour** - [contoureq.app](https://contoureq.app/) · [Google Play](https://play.google.com/store/apps/details?id=io.github.chronosauros.contour) · [source](https://github.com/Chronosauros/contour) · [download the APK](https://github.com/Chronosauros/contour/releases/latest)
 
-<a href="https://contoureq.app/"><img src="images/contour-board.jpg?v=12" width="100%" alt="Contour - Android app, open source. EQ manager for the CrinEar Protocol Micro and Max, FiiO KA15, K13 R2R, JadeAudio JA11 and JIEZI, SnowSky Melody, Tiny A and Retro Nano, TRN Black Pearl, Moondrop Dawn Pro 2, Echo-A and DUSK-SP, Kiwi Ears Allegro Mini and AD1, JCally JM12 and Tanchjim Space 2 - keep profiles on your phone, send one in seconds."></a>
+<a href="https://contoureq.app/"><img src="images/contour-board.jpg?v=13" width="100%" alt="Contour - Android app, open source. EQ manager for the CrinEar Protocol Micro and Max, FiiO KA15, K13 R2R, JadeAudio JA11 and JIEZI, SnowSky Melody, Tiny A and Retro Nano, TRN Black Pearl, Moondrop Dawn Pro 2, Echo-A and DUSK-SP, Kiwi Ears Allegro Mini and AD1, JCally JM12, Tanchjim Space 2 and EPZ TP65 - keep profiles on your phone, send one in seconds."></a>
 
 Like Contour? [Help fund the next DAC on Ko-fi](https://ko-fi.com/chronosaur)
 
